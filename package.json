@@ -1,0 +1,22 @@
+{
+  "name": "fearless",
+  "version": "1.0.0",
+  "description": "This is a take home assignment from Fearless",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShyGuyPy/Fearless.git"
+  },
+  "author": "Luke Vawter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShyGuyPy/Fearless/issues"
+  },
+  "homepage": "https://github.com/ShyGuyPy/Fearless#readme"
+}
