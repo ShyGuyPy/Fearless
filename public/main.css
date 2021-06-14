@@ -1,19 +1,43 @@
+h1{
+  background-color: #ffffff;
+  background-size: 300px 100px;
+  border-color: blue;
+  border-radius: 20px;
+  text-transform:uppercase;
+}
+
 p{
   text-align: center;
-  color: blue;
+  color: #06313d;
   font-size:25px;
+  background-color: #ffffff;
+  background-size: 300px 100px;
+  border-color: blue;
+  border-radius: 20px;
+
 }
 
 body {
   text-align: center;
-  font-family: Helvetica;
+  font-family: serif ;
+  background-color: #73c5f5;
 }
 
 .luke_btn {
+  display:inline-block;
+
+  text-align: center;
+  text-transform:uppercase;
+
+  box-sizing: border-box;
+  border-radius:75px;
+  border-color: blue;
 
   font-size:40px;
   height: 100px;
-  width: 500px;
-  border-radius: 75%;
-  background-color: #c8d2e3;
+  width: 300px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  font-family: serif ;
+  cursor: pointer;
 }
