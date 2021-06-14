@@ -1,9 +1,14 @@
 h1{
+  text-align: center;
   background-color: #ffffff;
-  background-size: 300px 100px;
+
+  margin: 0 auto;
+  width:500px;
   border-color: blue;
   border-radius: 20px;
   text-transform:uppercase;
+  font-size: 40px;
+  font-family: tahoma;
 }
 
 p{
@@ -11,7 +16,7 @@ p{
   color: #06313d;
   font-size:25px;
   background-color: #ffffff;
-  background-size: 300px 100px;
+  background-size:100px;
   border-color: blue;
   border-radius: 20px;
 
@@ -19,7 +24,7 @@ p{
 
 body {
   text-align: center;
-  font-family: serif ;
+  font-family: tahoma  ;
   background-color: #73c5f5;
 }
 
@@ -38,6 +43,6 @@ body {
   width: 300px;
   border-radius: 20px;
   background-color: #ffffff;
-  font-family: serif ;
+  font-family: tahoma ;
   cursor: pointer;
 }
